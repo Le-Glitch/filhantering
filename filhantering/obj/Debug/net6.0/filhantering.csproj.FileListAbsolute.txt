@@ -1,0 +1,15 @@
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\filhantering\filhantering\bin\Debug\net6.0\filhantering.exe
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\filhantering\filhantering\bin\Debug\net6.0\filhantering.deps.json
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\filhantering\filhantering\bin\Debug\net6.0\filhantering.runtimeconfig.json
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\filhantering\filhantering\bin\Debug\net6.0\filhantering.dll
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\filhantering\filhantering\bin\Debug\net6.0\filhantering.pdb
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\filhantering\filhantering\obj\Debug\net6.0\filhantering.csproj.AssemblyReference.cache
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\filhantering\filhantering\obj\Debug\net6.0\filhantering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\filhantering\filhantering\obj\Debug\net6.0\filhantering.AssemblyInfoInputs.cache
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\filhantering\filhantering\obj\Debug\net6.0\filhantering.AssemblyInfo.cs
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\filhantering\filhantering\obj\Debug\net6.0\filhantering.csproj.CoreCompileInputs.cache
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\filhantering\filhantering\obj\Debug\net6.0\filhantering.dll
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\filhantering\filhantering\obj\Debug\net6.0\refint\filhantering.dll
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\filhantering\filhantering\obj\Debug\net6.0\filhantering.pdb
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\filhantering\filhantering\obj\Debug\net6.0\filhantering.genruntimeconfig.cache
+C:\Users\brown.caleb\Documents\Projects\Prrprr1\filhantering\filhantering\obj\Debug\net6.0\ref\filhantering.dll
